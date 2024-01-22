@@ -16,7 +16,7 @@ public class Constants
     public static final int STANDBY = 0;
     public static final int GET_X_NAME = 1;
     public static final int GET_O_NAME = 2;
-    public static final int GET_X_MOVE = 3;
+    public static final int GET_X_MOVE = 3
     public static final int GET_O_MOVE = 4;
     public static final int MAKE_MOVE = 5;
     public static final int CHECK_IF_WINNER = 6;
