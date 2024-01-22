@@ -1,5 +1,5 @@
  /**
- * Tic-Tac-Toe game constants
+DONT LEAVE YOUR GITHUB OPEN FIND THE TWO BUGS
  */
 
 public class Constants
