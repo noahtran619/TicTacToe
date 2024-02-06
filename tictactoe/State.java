@@ -43,6 +43,13 @@ public class State
         return oName;
     }
     
+    public void setXName(String xName) {
+        this.xName = xName;
+    }
+    
+    public void setOName(String oName) {
+        this.oName = oName;
+    }
     public int getBoardCell(int row, int col) {
         return this.board[row][col];
     }
